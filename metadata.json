@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TTS Pro",
+  "description": "Ứng dụng chuyển văn bản thành giọng nói chuyên nghiệp sử dụng Gemini 2.5 Flash TTS với cấu hình nâng cao, hỗ trợ nhập tệp và trình hiển thị âm thanh.",
+  "requestFramePermissions": []
+}
